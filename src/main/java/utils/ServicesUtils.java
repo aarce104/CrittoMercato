@@ -5,8 +5,8 @@ package utils;
  */
 public class ServicesUtils {
 
-    private ServiceUtils(){
+    private ServicesUtils(){
 
     }
-    //public static
+
 }
